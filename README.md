@@ -12,6 +12,12 @@ To install CastBuddy, download it from the Mac App Store.
 
 [![Download on the Mac App Store](https://developer.apple.com/assets/elements/icons/download-on-the-mac-app-store/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/airplayable/id6746279741)
 
+Or
+
+https://github.com/adrianopaladini/CastBuddy/releases/
+
+Download the latest release CastBuddy.dmg file, open it on mac, and drag the CastBuddy.app to Applications folder.
+
 
 ## 📖 How to Use CastBuddy
 
